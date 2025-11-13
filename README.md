@@ -44,6 +44,7 @@ Run the program:
 ./banking
 
 📸 Demo
+
 <img width="518" height="410" alt="image" src="https://github.com/user-attachments/assets/0a064a3f-0720-4c9c-99dc-e0fd0460a211" />
 
 
